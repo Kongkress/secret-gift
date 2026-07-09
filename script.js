@@ -1,0 +1,1 @@
+document.getElementById('open').onclick=()=>{cover.style.display='none';gift.classList.remove('hide');document.querySelectorAll('.line').forEach((e,i)=>setTimeout(()=>{e.style.opacity=1;e.style.transform='translateY(0)'},500+i*700));if(navigator.vibrate)navigator.vibrate(80);}

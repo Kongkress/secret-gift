@@ -1,0 +1,1 @@
+Læg billedet i mappen som photo.jpg og upload alle filer til GitHub.
